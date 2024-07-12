@@ -1,4 +1,4 @@
-# Software Engineering and Agile Processes
+# Agile Transformation Coefficient Assessment Tool - ATCAT
 
 Software engineering is about specifying, developing, managing, and evolving software systems [1]. It uses computer science methods and theory together with cost-effective application concerns to solve difficult problems. To effectively produce a software product, software engineers carry out a set of activities that conduct a software process.
 
