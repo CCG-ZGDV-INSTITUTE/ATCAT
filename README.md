@@ -10,6 +10,6 @@ This paper aims to present a comprehensive discussion on the diagnosis of agile 
 
 Lastly, it proposes a new approach to address the research question of when a project may be deemed agile. This approach involves the development of a self-assessment tool, which can effectively measure the Diagnostic Percentage Score and Radar of Agile Coefficient Score. This tool evaluates the success factors of agile transformation within a team or an organization, instilling confidence in its efficacy.
 
-# Agile Methods, Diagnostic Techniques, Agility Assessment Tools, Scrum, Extreme Programming, Kanban
+**Keywords**: Agile Methods · Diagnostic Techniques · Agility Assessment Tools · Scrum · Extreme Programming · Kanban
 
-Check out the [CCG Agile Form](https://ccgagileform.netlify.app/).
+Check out the [Agile Transformation Coefficient Assessment Tool](https://ccgagileform.netlify.app/).
